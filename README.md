@@ -1,5 +1,14 @@
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/vscode-dotnet-test-explorer/Lobby)
 
+# build, pack
+
+https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+```
+npm i  -g vsce
+yarn global add vsce
+
+```
+
 # .NET Core Test Explorer
 
 ## Features

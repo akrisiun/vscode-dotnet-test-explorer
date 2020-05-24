@@ -3,7 +3,10 @@ node_modules
 .DS_Store
 npm-debug.log
 *.ini
-yarn.*
+*lock.json
 [Bb]in/
 [Oo]bj/
 lcov.info
+.arch*/
+*.vsix
+*.zip
